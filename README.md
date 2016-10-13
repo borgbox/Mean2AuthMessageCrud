@@ -2,7 +2,13 @@ Para buildar: npm run gulp
 
 Para executar: npm start
 
-Deppis vá para localhost:3000
+Depois vá para localhost:3000
+
+**************** Aplicação Express criada com *********************
+
+npm express generator
+ <a href="http://expressjs.com/en/starter/generator"></a>
+ <b> npm install express generator -g </b>
 
 *********************** Problemas com node-gyp **********************
 
